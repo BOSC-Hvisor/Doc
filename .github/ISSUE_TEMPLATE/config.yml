@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Documentation
+    url: https://github.com/BOSC-Hvisor/docs
+    about: Find more information in the project documentation.
+  - name: Common Issues
+    url: https://github.com/BOSC-Hvisor/common-issues
+    about: Check out the common issues and their solutions.
